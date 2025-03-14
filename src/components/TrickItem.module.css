@@ -1,0 +1,30 @@
+.buttonContainer {
+  border:1px solid white;
+  border-radius: 5px;
+  background-color: white;
+
+  margin: 7px 0;
+  padding: 5px 10px;
+  width: 200px;
+  height: 40px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  font-size: 100%;
+
+  cursor: pointer;
+}
+.buttonContainer:hover{
+  background-color: red;
+  border:1px solid red;
+  color: white;
+}
+.buttonContainer.active {
+  background-color: red;   /* 被選中的時候背景顏色為紅色 */
+  border: 1px solid red;   /* 邊框為紅色 */
+  color: white;            /* 文字顏色為白色 */
+}

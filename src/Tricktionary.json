@@ -1,0 +1,145 @@
+[
+  {
+    "name":"round kick",
+    "introduction":"the practitioner lifts the knee while turning the supporting foot and body in a semicircular motion, extending the leg striking with the lower part of the shin and/or the instep (top of the foot). The ball of the foot can also be used to strike the target and is preferable when power breaking thick boards.",
+    "type":"kicks",
+    "gif":"",
+    "id":"k1"
+  },
+
+  {
+    "name":"hook kick",
+    "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
+    "type":"kicks",
+    "gif":"",
+    "id":"k2"
+  },
+
+  {
+    "name":"TD hook",
+    "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
+    "type":"kicks",
+    "gif":"",
+    "id":"k3"
+  },
+
+  {
+    "name":"tornado kick",
+    "introduction":"The Tornado Kick is one of the most basic kicking tricks. It is a prerequisite to numerous kicking tricks that come with higher levels of tricking. From a ready stance, the performer turns away from the target as if to perform an outside spin kick...instead, that action is faked, and the knee pulls upwards sharply as the performer jumps off his base leg. At this moment, a round kick is delivered and the performer lands on the non kicking leg to finish the move.",
+    "type":"kicks",
+    "gif":"backend/images/tornado-kick.mp4",
+    "id":"k4"
+  },
+
+  {
+    "name":"skip hook",
+    "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
+    "type":"kicks",
+    "gif":"",
+    "id":"k5"
+  },
+
+  {
+    "name":"pop 180 hook",
+    "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
+    "type":"kicks",
+    "gif":"",
+    "id":"k6"
+  },
+
+  {
+    "name":"pop 360",
+    "introduction":"pop 360 outside crescent. The Pop 360 Wheel Kick is a trick in which the performer jumps off of both feet, from a ready position, turns 360° while delivering an outside spin kick to the target before landing on the ground.",
+    "type":"kicks",
+    "gif":"backend/images/pop-360.mp4",
+    "id":"k7"
+  },
+
+  {
+    "name":"butterfly kick",
+    "introduction":"旋子",
+    "type":"kicks",
+    "gif":"backend/images/butterfly-kick.mp4",
+    "id":"k8"
+  },
+
+  {
+    "name":"front roll",
+    "introduction":"forward roll",
+    "type":"flip",
+    "gif":"",
+    "id":"f1"
+  },
+
+  {
+    "name":"back roll",
+    "introduction":"backward roll",
+    "type":"flip",
+    "gif":"",
+    "id":"f2"
+  },
+
+  {
+    "name":"handstand (wall)",
+    "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
+    "type":"flip",
+    "gif":"",
+    "id":"f3"
+  },
+
+  {
+    "name":"cartwheel",
+    "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
+    "type":"flip",
+    "gif":"",
+    "id":"f4"
+  },
+
+  {
+    "name":"aerial",
+    "introduction":"A cartwheel without hands. The Aerial is a trick in which the performer leans his upperbody over his base foot, and kicks up his back leg while launching off of his base foot. As the body gains lift, the leg that kicks back transfers to the other side of the body, causing the body to rotate along the coronal plane, and to make way for the landing. The chest should face the ground just before launching and just before landing the Aerial.",
+    "type":"flip",
+    "gif":"backend/images/aerial.mp4",
+    "id":"f5"
+  },
+
+  {
+    "name":"scoot",
+    "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
+    "type":"floor movement",
+    "gif":"",
+    "id":"fm1"
+  },
+
+  {
+    "name":"blaster scoot",
+    "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
+    "type":"floor movement",
+    "gif":"",
+    "id":"fm2"
+  },
+
+  {
+    "name":"kaydent",
+    "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
+    "type":"floor movement",
+    "gif":"",
+    "id":"fm3"
+  },
+
+  {
+    "name":"front sweep",
+    "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
+    "type":"floor movement",
+    "gif":"",
+    "id":"fm4"
+  },
+
+  {
+    "name":"back sweep",
+    "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
+    "type":"floor movement",
+    "gif":"",
+    "id":"fm5"
+  }
+]

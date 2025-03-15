@@ -20,7 +20,7 @@ function App() {
             <span> Advenced </span>
           </div>
           <div className={styles.logo}>
-            <img src="src/images/Tricking_logo.png" alt="" />
+            <img src="src/images/Tricking_logo.PNG" alt="" />
           </div>
           <div className={styles.titleRight}>
             <span> Threshold </span>

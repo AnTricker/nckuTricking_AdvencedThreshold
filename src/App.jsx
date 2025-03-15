@@ -20,7 +20,7 @@ function App() {
             <span> Advenced </span>
           </div>
           <div className={styles.logo}>
-            <img src="{`${process.env.PUBLIC_URL}/Tricking_logo.png`}" alt="[ncku Tricking]" />
+            <img src="{`${process.env.PUBLIC_URL}/Tricking_logo.png`}" alt="ncku Tricking" />
           </div>
           <div className={styles.titleRight}>
             <span> Threshold </span>

@@ -1,6 +1,6 @@
 import trickData from "./Tricktionary.json"
 
-import logo from '../dist/assets/Tricking_logo.png';
+import logo from "./assets/Tricking_logo.png";
 import "./App.css";
 import styles from "./App.module.css";
 import Container from "./components/Container";

@@ -1,5 +1,6 @@
 import trickData from "./Tricktionary.json"
 
+import logo from '../dist/assets/Tricking_logo.png';
 import "./App.css";
 import styles from "./App.module.css";
 import Container from "./components/Container";
@@ -20,7 +21,7 @@ function App() {
             <span> Advenced </span>
           </div>
           <div className={styles.logo}>
-            <img src={`${process.env.PUBLIC_URL}/Tricking_logo.png`} alt="LOGO" />
+            <img src={logo} alt="LOGO" />
           </div>
           <div className={styles.titleRight}>
             <span> Threshold </span>

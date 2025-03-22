@@ -5,4 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base : "/nckuTricking_AdvencedThreshold/",
+  assetsInclude: ['**/*.mp4'] // 確保 Vite 正確處理 .mp4 檔案
 })

@@ -32,7 +32,7 @@ export default function TrickDetail({ trickData, trickId }) {
             width: "100%",
             height: "auto",
           }}
-          src= {`/assets/${trick.id}.mp4`}
+          src= {`${import.meta.env.BASE_URL}assets/${trick.id}.mp4`}
           autoPlay
           loop
           muted

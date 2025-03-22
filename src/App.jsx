@@ -18,7 +18,7 @@ function App() {
       <div className={styles.topbar}>
         <div className={styles.container}>
           <div className={styles.titleLeft}>
-            <span> Advenced </span>
+            <span> Advanced </span>
           </div>
           <div className={styles.logo}>
             <img src={logo} alt="LOGO" />

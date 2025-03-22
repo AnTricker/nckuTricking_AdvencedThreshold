@@ -1,118 +1,118 @@
 [
   {
-    "name":"round kick",
+    "name":"Round Kick",
     "introduction":"The Round Kick is one of the most important kicks in Tricking because it’s easy to perform from a twist. To do a Round Kick, start in a fighting stance with your kicking leg in the back and then chamber it forward, pointing your knee toward your target. As you get into the chamber position with your kicking leg, rotate your base leg to cause a hip turnover, allowing you to kick through your target in a nice line, parallel to the ground. After the kick, you can drop your leg in front or follow through to end where you started. This is a kick you want to invest time into really understanding. Being able to end your Round Kick in various different positions will help you a ton when learning combos later down the line.",
     "type":"kicks",
     "id":"k1"
   },
 
   {
-    "name":"hook kick",
+    "name":"Hook Kick",
     "introduction":"The Hook Kick is one of the hardest basic kicks in Tricking and it takes a lifetime to truly master this technique. The Hook Kick is essentially a follow through Round Kick played in reverse. You start in the same way you did the Round Kick, but this time you are going to twist the other way. You want your hips to be turned over before the kick, so your plant leg will be facing away from your target as you’re bringing the kicking leg up beside it. You then pull your leg into a chamber position as it sweeps across its target to return you to your original position. The Hook Kick is a kick, but often people will use it as a transition and way to gather momentum for a bigger trick.",
     "type":"kicks",
     "id":"k2"
   },
 
   {
-    "name":"TD hook",
+    "name":"TD Hook",
     "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
     "type":"kicks",
     "id":"k3"
   },
 
   {
-    "name":"tornado kick",
+    "name":"Tornado Kick",
     "introduction":"The Tornado Kick is one of the most important kicks for you to learn in your Tricking progression. A variant of Tornado Kick can be seen in Wushu, Capoeira, and Karate, but the most popular technique used in Tricking is that of Taekwondo. To do the Taekwondo Tornado Kick, you start in a Frontside position with your kicking leg in the back. From there, you step forward with your back leg a full 180 degrees to generate twisting momentum. You then place your foot down to spin and jump off your kicking leg. As you do this, it’s important to chamber your non-kicking leg in front. Pulling your leg into that Chamber position and jumping off your kicking leg is what’s going to give you the most air for the Tornado Kick. You then switch your legs in the air to perform a high, floaty Round Kick and land softly on your chamber leg. This trick is a great way to transition into combos, but it also serves as an introduction into the Cheat Setup. The Cheat Setup is everything in the Tornado Kick before the Round Kick and it’s going to be very important for the other tricks in this progression.",
     "type":"kicks",
     "id":"k4"
   },
 
   {
-    "name":"skip hook",
+    "name":"Skip Hook",
     "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
     "type":"kicks",
     "id":"k5"
   },
 
   {
-    "name":"pop 180 hook",
+    "name":"Pop180 Hook",
     "introduction":"The Pop 180 Crescent is a classic skill in Tricking and will certainly please a crowd when done right. Performing the trick is exactly as in sounds. To do it, you jump off two feet, rotate 180 degrees in the air, and perform a Crescent Kick right before landing. A quick note on terminology: Pop kicks are kicks that start in a Frontside position, where the front of your body is facing the way you’re twisting as you jump. The key to a good Pop 180 Crescent is to split your legs while they’re in the air. As one leg pulls out to kick, the other leg must pull out in the opposite fashion to keep your chest up. Essentially, you’ll be doing a dynamic split every time you perform this trick, so don’t forget to do your stretching. Flexibility is only going to become more important as we scale up to harder kicks.",
     "type":"kicks",
     "id":"k6"
   },
 
   {
-    "name":"pop 360",
+    "name":"Pop360",
     "introduction":"pop 360 outside crescent. The Pop 360 Wheel Kick is a trick in which the performer jumps off of both feet, from a ready position, turns 360° while delivering an outside spin kick to the target before landing on the ground.",
     "type":"kicks",
     "id":"k7"
   },
 
   {
-    "name":"butterfly kick",
+    "name":"Butterfly Kick",
     "introduction":"旋子",
     "type":"kicks",
     "id":"k8"
   },
 
   {
-    "name":"front roll",
+    "name":"Front Roll",
     "introduction":"You are going to start in a standing position and tuck your body down while placing your hands in front of you. You then push off your feet to flip over while supporting your weight on the ground using your back. You then just need to stand back up and you’ve done a forward roll. Going straight over the head and along the spine is the gymnastics technique for doing this skill, but in parkour, people prefer to go over their shoulder and roll slightly off axis.",
     "type":"flip",
     "id":"f1"
   },
 
   {
-    "name":"back roll",
+    "name":"Back Roll",
     "introduction":"timing. You start standing and roll into your lower back by doing a squatting motion. At the start you might want to use your hands to help you with this motion, but it’s best to keep them out in front to counter your weight. As you progress through your roll to get to your upper back, you’re going to get your hands up because you’re going to use them as support to keep your head from touching the ground. You then end the Backward Roll by pushing off your hands and getting your legs beneath your body to end where you started. The Backward Roll is a good safety check for learning the Back Flip",
     "type":"flip",
     "id":"f2"
   },
 
   {
-    "name":"handstand (wall)",
+    "name":"Handstand (wall)",
     "introduction":"just do handstand 10 times squentially.",
     "type":"flip",
     "id":"f3"
   },
 
   {
-    "name":"cartwheel",
+    "name":"Cartwheel",
     "introduction":"If you were doing a Cartwheel as a gymnast, you’d want to kick your legs right over your head and hit a Straddle Handstand in the middle of the trick. The Tricking-style Cartwheel is more off-axis. If you can already do the gymnast Cartwheel, then learning the Tricking technique should be easy. To do this technique, start your Cartwheel with your body in a neutral position, shifting your weight to the side as you reach out your arms to the side of your body and kick your leg up. You should feel some weight on your arms, but really focus on getting power from the leg that’s kicking to the side. You then push off your arms to end in the same neutral position you started in.",
     "type":"flip",
     "id":"f4"
   },
 
   {
-    "name":"aerial",
+    "name":"Aerial",
     "introduction":"The Aerial is essentially a Cartwheel without your hands, but it has a bit more nuance than that. Your Aerial is going to start in the same position and motion as the Cartwheel, but with a new emphasis on jumping off the non-kicking leg. It’s the combination of a strong kick and well-timed jump that’s going to let you do a solid Aerial. In the beginning, I strongly recommend you do your Aerial very off-axis. As you develop your technique, try to make it more inverted until you’re getting the axis you want for your Aerial. In gymnastics, the proper technique for the Aerial has the athlete flipping directly over their head, but this isn’t necessary for someone in Tricking.",
     "type":"flip",
     "id":"f5"
   },
 
   {
-    "name":"scoot",
+    "name":"Scoot",
     "introduction":"You’re going to start in a fighter’s stance, but with your back knee on the ground. From there, you’re going to place your hand on the ground and shift your body weight forward. You want to use the hand that’s on the side of the knee on the ground, making sure it’s just a bit in front of your body. You’re then going to kick your back leg forward as you twist 180 degrees and push off your arm. The Scoot will end with you in an Eagle position with your chest up, arms back, and back leg swinging forward.",
     "type":"floor movement",
     "id":"fm1"
   },
 
   {
-    "name":"blaster scoot",
+    "name":"Blaster Scoot",
     "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
     "type":"floor movement",
     "id":"fm2"
   },
 
   {
-    "name":"kaydent",
+    "name":"Kaydent",
     "introduction":"well, i haven't got any idea to introduce this trick yet, haha",
     "type":"floor movement",
     "id":"fm3"
   },
 
   {
-    "name":"macaco",
+    "name":"Macaco",
     "introduction":"The Macaco is a trick from Capoeira that will introduce you to flipping backward while being slightly off-ax-is. Most capoeiristas start this skill from a squat and that’s how I recommend you learn it. Start with your body in a squat and place one hand behind you for support. You’re then going to throw your hips up as you arch your back in order to get into an off-axis Bridge position. Up until this point, you’ve only been using one hand, but feel free to put the other one down for additional stability as you start to flip over your head. This is also the point where you’re going to want to kick your legs apart in order to land. The easiest way to do the Macaco is by kicking over to land on the leg that is opposite to the hand used for support in the very beginning.",
     "type":"floor movement",
     "id":"fm4"

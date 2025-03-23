@@ -27,13 +27,13 @@ export default function TrickDetail({ trickData, trickId }) {
         <h1 style={{ color: "red", textAlign: "center" }}> {trick.name} </h1>
       </div>
       <div>
-        <video
+        <img
           style={{
             margin: "10px",
             width: "100%",
             height: "auto",
           }}
-          src={`${import.meta.env.BASE_URL}assets/${trick.id}.mp4`}
+          src={`${import.meta.env.BASE_URL}assets/${trick.id}.gif`}
           autoPlay
           loop
           muted

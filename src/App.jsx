@@ -16,7 +16,7 @@ function App() {
     <div className="App">
 
       <div className={styles.topbar}>
-        <div className={styles.container}>
+        <div className={styles.titlecontainer}>
           <div className={styles.titleLeft}>
             <span> Advanced </span>
           </div>
@@ -29,13 +29,13 @@ function App() {
         </div>
       </div>
 
-      <Container >
+      <Container className={styles.container}>
       
-      <InnerContainer >
+      <InnerContainer className={styles.left}>
         <TrickList trickData={trickData} trickId={trickId} setTrickId={setTrickId}/>
       </InnerContainer>
       
-      <InnerContainer>
+      <InnerContainer className={styles.right}>
         <TrickDetail trickData={trickData} trickId={trickId}/>
       </InnerContainer>
 

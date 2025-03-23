@@ -16,10 +16,10 @@ export default function TrickDetail({ trickData, trickId }) {
         flexDirection: "column",
         justifyContent: "center",
         alignItems: "center",
-        width: "50%",
+        width: "100%",
         marginLeft: "auto",
         marginRight: "auto",
-        padding: "10px",
+        padding: "0",
         color: "white",
       }}
     >
@@ -29,7 +29,7 @@ export default function TrickDetail({ trickData, trickId }) {
       <div>
         <img
           style={{
-            margin: "10px",
+            margin: "0",
             width: "100%",
             height: "auto",
           }}
